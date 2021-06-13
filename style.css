@@ -1,0 +1,27 @@
+.header{
+    background-color: orange;
+    display: flex;
+    color: darkred;
+    
+    
+   
+   
+    
+}
+
+
+.grids{
+    background-color: rgba(230, 247, 0, 0.959);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: red;
+    font-size: 20px;
+    font-weight: 400;
+   
+}
+.items{
+    border:blue solid 1px;
+    border-radius: 10%;
+    justify-content: center;
+}
